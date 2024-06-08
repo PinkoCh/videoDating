@@ -3,5 +3,6 @@
 "animeMode" : 1,
 "showOpenAd" : false,
 "showAds" : false,
-"showBanner" : false
+"showBanner" : false,
+"showBanner" : 1
 }
