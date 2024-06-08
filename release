@@ -4,5 +4,5 @@
 "showOpenAd" : false,
 "showAds" : false,
 "showBanner" : false,
-"showBanner" : 1
+"value" : 1
 }
