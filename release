@@ -1,8 +1,8 @@
 {
 "version" : "1.3",
 "animeMode" : 1,
-"showOpenAd" : false,
-"showAds" : false,
-"showBanner" : false,
+"showOpenAd" : true,
+"showAds" : true,
+"showBanner" : true,
 "valueCount" : 1
 }
