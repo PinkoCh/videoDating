@@ -1,6 +1,6 @@
 {
 "version" : "1.3",
-"animeMode" : 1,
+"characterFormSetting" : 0,
 "showOpenAd" : true,
 "showAds" : true,
 "showBanner" : true,
