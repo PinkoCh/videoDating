@@ -1,6 +1,6 @@
 {
-"version" : "1.9",
-"characterFormSetting" : 0,
+"version" : "2.0",
+"characterFormSetting" : 3,
 "showOpenAd" : true,
 "showAds" : true,
 "showBanner" : true,
