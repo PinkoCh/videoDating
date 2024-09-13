@@ -1,8 +1,8 @@
 {
 "version" : "2.4",
-"characterFormSetting" : 1,
-"showOpenAd" : false,
-"showAds" : false,
-"showBanner" : false,
+"characterFormSetting" : 0,
+"showOpenAd" : true,
+"showAds" : true,
+"showBanner" : true,
 "valueCount" : 1
 }
